@@ -1,0 +1,5 @@
+$('header').remove()
+$('footer').remove()
+$('div#secondary').remove()
+$('.iconic-footer').remove()
+$('.related_posts').remove()
